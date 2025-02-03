@@ -1,6 +1,15 @@
-# low_carb_compass
+# React + Vite
 
-## Personal project for an online health and wellbeing resource.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Low_carb_compass
+
+### Personal project for an online health and wellbeing resource.
 
 After following a lower carbohydrate eating plan (often referred to as the keto diet) for several years, I successfully lost 40 kg, improved my fitness, and even cycled 300 km in 22 hours. This experience led me to firmly believe in the benefits of reducing carbs for both physical and mental health.
 
